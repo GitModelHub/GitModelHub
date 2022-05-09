@@ -1,7 +1,7 @@
-## 
-<h1 align="center"> 👋 Hi, 欢迎光临 GitModel </h1>
+<h2 align="center"> 👋 Hi, 欢迎光临 GitModel </h1>
 
 > 🚀一个数学建模武器库，这里有你学习数学建模竞赛的所有.
+<img src="./figures/GM_beamer.png" width = "55%" align=center />
 
 我们是一群数学建模爱好者\
 我们曾经也从小白一路走来\
@@ -19,6 +19,22 @@
 
 ### 🌱 我们最近正在更新...
 - 🧱 数学建模竞赛的数学基础
+
+### 🛠️我们将会使用的工具
+<p align='left'>
+    <a href='https://www.python.org/'>
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40"/>
+    </a>
+    <a href='https://jupyter.org/'>
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" height="40"/> 
+    </a>
+    <a href='https://numpy.org/'>
+        <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" height="40"/>
+    </a>
+    <a href="https://pytorch.org/"> 
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="40"/> 
+    </a>
+</p>
 
 ### 📫 欢迎与我沟通鸭！
 - 📧 **邮箱**：gitmodel@163.com

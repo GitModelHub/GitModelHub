@@ -1,7 +1,8 @@
-<h2 align="center"> 👋 Hi, 欢迎光临 GitModel </h1>
+<h2 align="center">👋 Hi, 欢迎光临 GitModel </h2>
 
 > 🚀一个数学建模武器库，这里有你学习数学建模竞赛的所有.
-<img src="./figures/GM_beamer.png" width = "55%" align=center />
+
+<h3 align="center"> <img src="./figures/GM_beamer.png" width = "65%" align=center /></h3>
 
 我们是一群数学建模爱好者\
 我们曾经也从小白一路走来\

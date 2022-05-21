@@ -1,6 +1,12 @@
 <h2 align="center">👋 Hi, 欢迎光临 GitModel </h2>
 
+[<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D1051016998&labelColor=FE7398&logo=bilibili&label=bilibili%20fans&query=%24.data.totalSubs&color=9cf">](https://space.bilibili.com/1051016998)
+<img src="https://img.shields.io/badge/Powered%20by-Python3.8-brightgreen">
+<img src="https://img.shields.io/badge/licence-Apache%202.0-orange">
+
 > 🚀一个数学建模工具库，这里有你学习数学建模竞赛的所有.
+
+
 
 <h3 align="center"> <img src="./figures/FULL LOGO 1.png" width = "65%" align=center /></h3>
 
@@ -19,7 +25,7 @@
 - 还有你想了解or感兴趣的，欢迎跟我们联系或投稿
 
 ### 🌱 我们最近正在更新...
-- 🧱 数学建模竞赛的数学基础
+- 🧱 数学建模竞赛的数学基础 <img src="https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E8%BF%9B%E5%BA%A6-60%25-lightgrey">
 
 ### 🛠️我们将会使用的工具
 <p align='left'>

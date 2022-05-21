@@ -25,7 +25,7 @@
 - 还有你想了解or感兴趣的，欢迎跟我们联系或投稿
 
 ### 🌱 我们最近正在更新...
-- 🧱 数学建模竞赛的数学基础 <img src="https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E8%BF%9B%E5%BA%A6-50%25-lightgreen">
+- 🧱 数学建模竞赛的数学基础 <img src="https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E8%BF%9B%E5%BA%A6-65%25-lightgreen">
 
 ### 🛠️我们将会使用的工具
 <p align='left'>
